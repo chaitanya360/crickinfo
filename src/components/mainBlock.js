@@ -19,7 +19,7 @@ function MainBlock({
       <div id="top">
         <div id="left_arrow" className="arrow">
           <img
-            src={process.env.PUBLIC_URL + "assets/left_arrow.svg"}
+            src={process.env.PUBLIC_URL + "/assets/left_arrow.svg"}
             height="100%"
             width="100%"
             alt="left_arrow"
@@ -29,7 +29,7 @@ function MainBlock({
 
         <div id="player_img" key={playerId + 1}>
           <img
-            src={process.env.PUBLIC_URL + "assets/" + player_img + ".png"}
+            src={process.env.PUBLIC_URL + "/assets/" + player_img + ".png"}
             height="100%"
             width="100%"
             alt="player"
@@ -42,7 +42,7 @@ function MainBlock({
 
         <div id="right_arrow" className="arrow">
           <img
-            src={process.env.PUBLIC_URL + "assets/right_arrow.svg"}
+            src={process.env.PUBLIC_URL + "/assets/right_arrow.svg"}
             height="100%"
             width="100%"
             alt="right_arrow"
