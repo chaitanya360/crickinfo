@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/crickinfo/static/css/main.b1a2f434.chunk.css",
-    "main.js": "/crickinfo/static/js/main.e4d78bf1.chunk.js",
-    "main.js.map": "/crickinfo/static/js/main.e4d78bf1.chunk.js.map",
+    "main.js": "/crickinfo/static/js/main.45740993.chunk.js",
+    "main.js.map": "/crickinfo/static/js/main.45740993.chunk.js.map",
     "runtime-main.js": "/crickinfo/static/js/runtime-main.85c05de6.js",
     "runtime-main.js.map": "/crickinfo/static/js/runtime-main.85c05de6.js.map",
     "static/js/2.99016c05.chunk.js": "/crickinfo/static/js/2.99016c05.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.85c05de6.js",
     "static/js/2.99016c05.chunk.js",
     "static/css/main.b1a2f434.chunk.css",
-    "static/js/main.e4d78bf1.chunk.js"
+    "static/js/main.45740993.chunk.js"
   ]
 }
